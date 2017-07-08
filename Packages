@@ -1,0 +1,13 @@
+Package: com.h1x0rz3ro.calmpatcher
+Version: 3.3
+Architecture: iphoneos-arm
+Maintainer: ZioShiba <zioshiba.4@gmail.com>
+Filename: /CalmPatcher.deb
+Size: 3526258
+MD5sum: DC0BC2727AB32C57BFA18AD1CFE5ECDF
+SHA1: B2BE262573F275425ED492B3369384445F4FB3EE
+SHA256: 9578B16E54DC28C1B828289220CD2461AE2CF08DD9B1CBF5E7F57D03BE6F78E9
+Section: Patches
+Description: A Patcher for the App Calm
+Author: H1X0RZ3R0 <zioshiba.4@gmail.com>
+Name: Calm Patcher
